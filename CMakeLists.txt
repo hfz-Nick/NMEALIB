@@ -45,6 +45,6 @@ add_executable (main src/main.cpp)
 target_link_libraries(main ${PROJECT_NAME})
 
 install(TARGETS ${PROJECT_NAME} DESTINATION lib/NMEAParser_libs)
-install(DIRECTORY include/${PROJECT_NAME} DESTINATION include/NMEAParser_libs)
+install(DIRECTORY include/${PROJECT_NAME} DESTINATION include/)
 
 

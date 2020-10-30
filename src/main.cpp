@@ -26,6 +26,8 @@
 #include <string.h>
 #include <NMEAParser.h>
 
+
+
 ///
 /// \class MyParser
 /// \brief child class of CNMEAParser which will redefine notification calls from the parent class.

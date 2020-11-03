@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/hfz/share/hfz-dev/NMEAParserLib/build",
+  "command": "/usr/bin/g++-7   -I/home/hfz/share/hfz-dev/NMEAParserLib/include/NMEAParserLib  -DOS_BIONIC -std=c++11  -g   -o CMakeFiles/main.dir/src/main.cpp.o -c /home/hfz/share/hfz-dev/NMEAParserLib/src/main.cpp",
+  "file": "/home/hfz/share/hfz-dev/NMEAParserLib/src/main.cpp"
+},
+{
+  "directory": "/home/hfz/share/hfz-dev/NMEAParserLib/build",
+  "command": "/usr/bin/g++-7  -DNMEAParserLib_EXPORTS -I/home/hfz/share/hfz-dev/NMEAParserLib/include/NMEAParserLib  -DOS_BIONIC -std=c++11  -g -fPIC   -o CMakeFiles/NMEAParserLib.dir/library/NMEAParserPacket.cpp.o -c /home/hfz/share/hfz-dev/NMEAParserLib/library/NMEAParserPacket.cpp",
+  "file": "/home/hfz/share/hfz-dev/NMEAParserLib/library/NMEAParserPacket.cpp"
+},
+{
+  "directory": "/home/hfz/share/hfz-dev/NMEAParserLib/build",
+  "command": "/usr/bin/g++-7  -DNMEAParserLib_EXPORTS -I/home/hfz/share/hfz-dev/NMEAParserLib/include/NMEAParserLib  -DOS_BIONIC -std=c++11  -g -fPIC   -o CMakeFiles/NMEAParserLib.dir/library/NMEAParser.cpp.o -c /home/hfz/share/hfz-dev/NMEAParserLib/library/NMEAParser.cpp",
+  "file": "/home/hfz/share/hfz-dev/NMEAParserLib/library/NMEAParser.cpp"
+},
+{
+  "directory": "/home/hfz/share/hfz-dev/NMEAParserLib/build",
+  "command": "/usr/bin/g++-7  -DNMEAParserLib_EXPORTS -I/home/hfz/share/hfz-dev/NMEAParserLib/include/NMEAParserLib  -DOS_BIONIC -std=c++11  -g -fPIC   -o CMakeFiles/NMEAParserLib.dir/library/NMEASentenceBase.cpp.o -c /home/hfz/share/hfz-dev/NMEAParserLib/library/NMEASentenceBase.cpp",
+  "file": "/home/hfz/share/hfz-dev/NMEAParserLib/library/NMEASentenceBase.cpp"
+},
+{
+  "directory": "/home/hfz/share/hfz-dev/NMEAParserLib/build",
+  "command": "/usr/bin/g++-7  -DNMEAParserLib_EXPORTS -I/home/hfz/share/hfz-dev/NMEAParserLib/include/NMEAParserLib  -DOS_BIONIC -std=c++11  -g -fPIC   -o CMakeFiles/NMEAParserLib.dir/library/NMEASentenceGGA.cpp.o -c /home/hfz/share/hfz-dev/NMEAParserLib/library/NMEASentenceGGA.cpp",
+  "file": "/home/hfz/share/hfz-dev/NMEAParserLib/library/NMEASentenceGGA.cpp"
+},
+{
+  "directory": "/home/hfz/share/hfz-dev/NMEAParserLib/build",
+  "command": "/usr/bin/g++-7  -DNMEAParserLib_EXPORTS -I/home/hfz/share/hfz-dev/NMEAParserLib/include/NMEAParserLib  -DOS_BIONIC -std=c++11  -g -fPIC   -o CMakeFiles/NMEAParserLib.dir/library/NMEASentenceGSV.cpp.o -c /home/hfz/share/hfz-dev/NMEAParserLib/library/NMEASentenceGSV.cpp",
+  "file": "/home/hfz/share/hfz-dev/NMEAParserLib/library/NMEASentenceGSV.cpp"
+},
+{
+  "directory": "/home/hfz/share/hfz-dev/NMEAParserLib/build",
+  "command": "/usr/bin/g++-7  -DNMEAParserLib_EXPORTS -I/home/hfz/share/hfz-dev/NMEAParserLib/include/NMEAParserLib  -DOS_BIONIC -std=c++11  -g -fPIC   -o CMakeFiles/NMEAParserLib.dir/library/NMEASentenceGSA.cpp.o -c /home/hfz/share/hfz-dev/NMEAParserLib/library/NMEASentenceGSA.cpp",
+  "file": "/home/hfz/share/hfz-dev/NMEAParserLib/library/NMEASentenceGSA.cpp"
+},
+{
+  "directory": "/home/hfz/share/hfz-dev/NMEAParserLib/build",
+  "command": "/usr/bin/g++-7  -DNMEAParserLib_EXPORTS -I/home/hfz/share/hfz-dev/NMEAParserLib/include/NMEAParserLib  -DOS_BIONIC -std=c++11  -g -fPIC   -o CMakeFiles/NMEAParserLib.dir/library/NMEASentenceRMC.cpp.o -c /home/hfz/share/hfz-dev/NMEAParserLib/library/NMEASentenceRMC.cpp",
+  "file": "/home/hfz/share/hfz-dev/NMEAParserLib/library/NMEASentenceRMC.cpp"
+}
+]
